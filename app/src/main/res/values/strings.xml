@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ApiAssignment</string>
+    <string name="order_list">Order List</string>
+    <string name="firmid">FirmId:</string>
+    <string name="order_id">Order Id:</string>
+    <string name="order_date">Order Date:</string>
+    <string name="partty_code">Partty Code:</string>
+    <string name="product_code">Product Code:</string>
+    <string name="qty">Qty:</string>
+    <string name="free">Free:</string>
+    <string name="remark">Remark:</string>
+    <string name="delivery_mode">Delivery Mode:</string>
+    <string name="salesman_code">Salesman Code:</string>
+    <string name="items_no">Items No.:</string>
+</resources>
