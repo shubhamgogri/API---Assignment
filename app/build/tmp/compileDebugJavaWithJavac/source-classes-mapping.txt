@@ -1,0 +1,11 @@
+com/shubham/apiassignment/MainActivity.java
+ com.shubham.apiassignment.MainActivity
+com/shubham/apiassignment/data/HttpRequest.java
+ com.shubham.apiassignment.data.HttpRequest
+com/shubham/apiassignment/adapter/RecyclerViewAdapter.java
+ com.shubham.apiassignment.adapter.RecyclerViewAdapter
+ com.shubham.apiassignment.adapter.RecyclerViewAdapter$ViewHolder
+com/shubham/apiassignment/model/Item.java
+ com.shubham.apiassignment.model.Item
+com/shubham/apiassignment/BuildConfig.java
+ com.shubham.apiassignment.BuildConfig
